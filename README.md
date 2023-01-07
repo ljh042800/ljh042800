@@ -21,8 +21,8 @@
 <span><img src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jquery&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=next-dot-js&logoColor=white"/></span>
 - Backend : <span><img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=Java&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></span> 
 <span><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></span> 
 <span><img src="https://img.shields.io/badge/Oracle-003545?style=flat-square&logo=Oracle&logoColor=white"/></span> 
 <span><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></span>
 
